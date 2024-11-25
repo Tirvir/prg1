@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+}
+div{
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    font-family: monospace;
+    border-radius: 20px;
+    outline-offset: -10px;
+    outline: green dotted 60px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-weight: bolder;
+}
+.mlhovina{
+    margin-left: 10px;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+h1{
+    text-align: center;
+}
+ol{
+margin-left: 39%;
+padding: 50px;
+font-size: 20px;
+}
